@@ -276,6 +276,11 @@ header.sticky .navigation a:hover{
   background: #6d7eb8;
 }
 
+.skills .content .col-right .bar .postgres:before{
+  width: 50%;
+  background: #3cd369;
+}
+
 .services .content{
   display: flex;
   justify-content: center;
