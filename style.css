@@ -312,7 +312,7 @@ main{
    height: 320px;
    background-color: #343434;
    border-radius: 8px;
-   box-shadow: 5px 8px 15px #888888;
+   /* box-shadow: 5px 8px 15px #888888; */
    padding: 10px;
    text-align: center;
 
